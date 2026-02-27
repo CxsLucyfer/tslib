@@ -4,7 +4,7 @@
   },
   "devDependencies": {
     "tslib": "file:../..",
-    "webpack": "5.0.0-rc.4",
+    "webpack": "5.104.1",
     "webpack-cli": "3.3.12"
   }
 }
